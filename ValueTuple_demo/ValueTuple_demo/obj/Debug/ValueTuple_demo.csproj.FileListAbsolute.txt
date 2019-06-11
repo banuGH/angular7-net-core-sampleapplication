@@ -1,0 +1,10 @@
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\bin\Debug\ValueTuple_demo.exe.config
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\bin\Debug\ValueTuple_demo.exe
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\bin\Debug\ValueTuple_demo.pdb
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\bin\Debug\System.ValueTuple.dll
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\bin\Debug\System.ValueTuple.xml
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\obj\Debug\ValueTuple_demo.csprojAssemblyReference.cache
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\obj\Debug\ValueTuple_demo.csproj.CoreCompileInputs.cache
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\obj\Debug\ValueTuple_demo.csproj.CopyComplete
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\obj\Debug\ValueTuple_demo.exe
+C:\Workspace1\ValueTuple_demo\ValueTuple_demo\obj\Debug\ValueTuple_demo.pdb
